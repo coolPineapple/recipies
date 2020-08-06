@@ -1,8 +1,7 @@
 how t make cake:
-1>
-cake batter
-2>
-egg
-3>
-mix well 
-4> microwave
+1> 	cake batter
+2>	egg
+3>	mix well 
+4>	microwave
+
+-- Thats the recipe for making a delicious cake 
