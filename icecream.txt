@@ -1,6 +1,10 @@
 how to make icecream:
-1> milk
-2> flavour
-3> chocolate
-4> mix
-5> freeze
+  1> milk
+  2> flavour
+  3> chocolate
+  4> mix
+  5> freeze
+  
+  Note -> Do not use almond milk.
+  
+  Enjoy your Ice Cream.
