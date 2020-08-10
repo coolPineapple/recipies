@@ -1,14 +1,14 @@
 how t make cake:
 	1> 	cake batter
 	2>	egg
-	3>	mix well 
+	3>	mix well
 	4>	microwave
+	5>	vannila flavour 
 
 Note -> Make sure to pre-heat oven before baking the cake.
 
--- Thats the recipe for making a delicious cake 
+-- Thats the recipe for making a delicious cake
 -- HAVE A NICE DAY!!
 -- End of Recipe
 
 -- Like, share and subscribe for more recipies.
-
