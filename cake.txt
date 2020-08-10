@@ -3,7 +3,7 @@ how t make cake:
 	2>	egg
 	3>	mix well
 	4>	microwave
-	5>	vannila flavour 
+	5>	chocolate flavour 
 
 Note -> Make sure to pre-heat oven before baking the cake.
 
